@@ -1,7 +1,7 @@
 # DesafioProjetoDIO
 Primeiro desafio de projeto 
 Repositório do desafio de projeto Git/GitHub da DIO
-
+REPOSITÓRIO EM CONSTRUÇÃO!
 
 ## Dica útil pra se preparar pro que vem ai
 [Dica para acalmar o coração nesse mercado de trabalho](https://www.youtube.com/watch?v=IxeuGceLDc8)<br />
